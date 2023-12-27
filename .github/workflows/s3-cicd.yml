@@ -24,4 +24,4 @@ jobs:
 
       - name: Deploy to AWS S3
         run: |
-          aws s3 sync ./public/*.html s3://mibucketdemosanvalero --delete
+          aws s3 sync /home/runner/work/netflix-s3-cicd/netflix-s3-cicd/*.html s3://mibucketdemosanvalero --delete
