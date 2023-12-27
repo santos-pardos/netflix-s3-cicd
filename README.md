@@ -25,3 +25,6 @@ git remote add origin https://github.com/santos-pardos/netflix-s3-cicd.git
 git branch -M main
 git push -u origin main
 ```
+## Links
+
+https://baimamboukar.medium.com/deploy-static-websites-to-aws-s3-via-ci-cd-with-github-actions-faa8c7432a5f
